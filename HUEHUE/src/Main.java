@@ -5,6 +5,9 @@ public class Main {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Quantos Kg de peixe voce pegou?");
+		
+		
+		//EX4
 		float kg = sc.nextInt();
 		
 		if(kg<=50) {
